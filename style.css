@@ -6,6 +6,8 @@ body {
 }
 
 
+
+
 .header {
 
     height: 35px;
@@ -21,10 +23,7 @@ body {
 
     background-color: gray;
     opacity: 0.9;
-
 }
-
-
 
 .second {
 
@@ -58,15 +57,7 @@ body {
     gap: 2rem;
     padding-top: 1rem;
 }
-
-#side{
-
-    text-align:start;
-    color: #fff;
-}
-
-
-h4{
+h4:hover{
 
     cursor: pointer;
 
@@ -112,6 +103,7 @@ h4{
 
 
 
+
 .wrap {
 
     width: 100vw;
@@ -144,6 +136,8 @@ h4{
     
     width: 100%;
 }
+
+
 
 
 .container3{
@@ -279,6 +273,7 @@ button:hover{
     color: white;
 
 }
+
 
 
 
